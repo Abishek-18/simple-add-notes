@@ -75,8 +75,13 @@ const App = () => {
       
          </div>
         </div>
+       { console.log("hello notes")}
+        
          
     </div>
+   
+   
+    
   )
 }
 
